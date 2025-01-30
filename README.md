@@ -2,4 +2,4 @@
 
 lyrics for songs
 
-(Цибуля РЕКордс)[https://linktr.ee/tsybuliarec]
+[Цибуля РЕКордс](https://linktr.ee/tsybuliarec)
